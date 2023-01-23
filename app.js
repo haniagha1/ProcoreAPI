@@ -4,7 +4,7 @@ const gettoken =require("./Module/auth")
 const getcompanies=require("./Module/getcompanies")
 //get access info
 
-project_id="13572"
+project_id=""
 let authurl = "https://sandbox.procore.com/oauth/token"
 let apiurl ="https://sandbox.procore.com"
 
